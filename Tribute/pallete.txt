@@ -1,0 +1,4 @@
+/* SCSS RGB */
+$gunmetal: rgba(9, 35, 39, 1);
+$dark-slate-gray: rgba(11, 83, 81, 1);
+$antique-white: rgba(250, 238, 220, 1);
